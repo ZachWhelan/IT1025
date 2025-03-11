@@ -11,3 +11,6 @@
 # NetworkDesign.jpeg 
 ## Overview- Here is a visual diagram of what a network can look like. There are many different types of network topologies and they each have their own benefits and disadvantages. The topology that you can see in this diagram is a "mesh" topology. The idea of this setup is that everything is connected to everything meaning that if one of them fails the others can still function. Most of the other layouts have the issue that if one of the terminals fail then the others connected to it can too but with mesh, everything is connected to everything.
 ## Visual Representation- https://github.com/ZachWhelan/IT1025/blob/main/NetworkDesign.jpeg
+# Python.png
+## This is an example of how python can be used to differencient numbers and what the outout looks like. In this example I chose the number 45 and coded it to produce a sentance depending if the value was greater or less than 100. If it was greater than 100 it would say greater than 100 but since it is not it shows less than 100. This was determined using the "if" and "else" commands in python. 
+## Visual Representaion- https://github.com/ZachWhelan/IT1025/blob/main/Python.png
