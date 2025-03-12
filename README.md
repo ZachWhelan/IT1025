@@ -17,3 +17,6 @@
 # ZachWhelanFlowerClass.pdf 
 ## Overview- Using visio I created a class diagram. Class diagrams can be used to represent anything you choose, in this example I chose a flower. The diagram is broken down into 3 parts. In the first part is the class name and this class is flower. The next section of the diagram is the characteristics of the flower not in specific. For example, I used the color, smell, and length of the flower. Finally, in the last section of the diagram is the methods of the class, so for a flower you can pick the flower, smell the flower, and plant a flower. 
 ## Visial Representaion- https://github.com/ZachWhelan/IT1025/blob/main/ZachWhelanFlowerClass.pdf
+# PythonOOP.png
+## Overview- Here is a complete look of how python code looks when it is finished. The # is used as a comment tool so everything that is followed by a hashtag is a comment that I used to help desribe what each line of code means and what it does. 
+## Visual Representation- https://github.com/ZachWhelan/IT1025/blob/main/PythonOOP.png
